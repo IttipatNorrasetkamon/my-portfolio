@@ -9,5 +9,5 @@ My data science and analytic projects
 
 ## Contact me
 reach out to me linkedin.com/in/ittipat-nrskm
-## image
+## me!
 ![me](https://media.licdn.com/dms/image/v2/C5603AQHC3uS_s7Uaxw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1663550612912?e=2147483647&v=beta&t=GEcVgsNavXBynCPPJ_1zgYD_hOwIVU2u-6NVE2gQ9mw)
