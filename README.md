@@ -2,6 +2,7 @@
 My data science and analytic projects
 
 # My personal projects
-1.SQL
-2.R programming
-3.Looker studio
+1. SQL
+2. R programming
+3. Looker studio
+4. Linear Regression using caret in R
